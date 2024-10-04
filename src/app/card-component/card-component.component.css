@@ -1,0 +1,29 @@
+.lounge-desc {
+  padding: 1rem 0 1rem 1rem;
+}
+
+.lounge-desc .card-text {
+  padding-right: 0.5rem;
+  transform: rotate(0);
+}
+
+.lounge-links {
+  text-decoration: none;
+  display: flex;
+  color: #000;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lounge-card {
+  border-radius: 1rem;
+}
+
+.lounge-card .card-footer {
+  background-color: #fff;
+}
+.lounge-img {
+  height: 11.5rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}

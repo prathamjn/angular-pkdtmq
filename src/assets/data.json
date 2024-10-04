@@ -1,0 +1,33 @@
+{
+  "lounges": [
+    {
+      "image": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/lounges/bangkok/h3-bangkok-premium-lounge-seating2.jpg",
+      "name": "Bangkok Premium Lounge",
+      "description": "Explore"
+    },
+    {
+      "image": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/lounges/paris/h3-paris-lounge-bar.jpg",
+      "name": "Paris Premium Lounge",
+      "description": "Explore"
+    },
+    {
+      "image": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-1/brand/lounges/beirut/h1-1280x589_692440.jpg",
+      "name": "Beirut Premium Lounge",
+      "description": "Explore"
+    },
+    {
+      "image": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-2/brand/lounges/singapore/h2-singapore-premium-lounge-sitting-area.jpg",
+      "name": "Singapore Premium Lounge",
+      "description": "Explore"
+    }
+  ],
+  "productBanner": {
+    "productHeader": "Worldwide lounge access & eligibility",
+    "productText": "Premium Class customers, Privilege Club Platinum, Gold and Silver members travelling on Qatar Airways as well as oneworld Emerald and Sapphire members travelling on any oneworld flight can enjoy premium lounge facilities in airports around the world.",
+    "productImage": "https://www.qatarairways.com/content/dam/images/renditions/horizontal-3/brand/lounges/bangkok/h3-bangkok-premium-lounge-seating2.jpg"
+  },
+  "pageTitle": {
+    "mainTitle": "Our Premium Lounges around the world",
+    "titleText": "Pamper yourself with a luxurious experience, signature dishes and premium service in the Qatar Airways Premium Lounges."
+  }
+}

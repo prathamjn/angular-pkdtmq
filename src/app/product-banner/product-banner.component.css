@@ -1,0 +1,18 @@
+.product-image-container {
+  @media (min-width: 992px) {
+    height: 23.75rem;
+  }
+}
+
+.product-image {
+  object-fit: cover;
+}
+
+.find-btn {
+  background-color: #8e2157;
+  border: #8e2157;
+}
+
+.find-btn:hover {
+  background-color: #5c0931;
+}
